@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.contenedor{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+}
+
+.contenedorDos{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+}
